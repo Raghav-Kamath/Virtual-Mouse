@@ -9,3 +9,8 @@ Before you run the file you should install the required modules. Open the comman
 ```
 pip install -r requirements.txt
 ```
+
+
+
+Click the following link to view my documentation
+https://docs.google.com/document/d/1Xw_NzUkAQTrAHrlY7eqn5mIbTZSZGyG_RPK5IPd2Svg/edit?usp=sharing
